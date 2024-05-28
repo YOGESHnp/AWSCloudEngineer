@@ -308,9 +308,9 @@ body {
   margin-top: 50px;
 }
 
-.skill h4 {
+.skill > h4 {
   font-size: 24px;
-  text-transform: uppercase;
+  text-transform: none !important;
   margin: 0 0 15px;
 }
 
@@ -493,6 +493,10 @@ body {
 
 .modal-body h4 {
   font-weight: 700;
+}
+
+.modal-body h5 {
+  font-weight: 900;
 }
 
 .modal-footer {
