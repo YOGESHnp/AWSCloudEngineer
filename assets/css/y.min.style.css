@@ -1,0 +1,24 @@
+.yp-5{
+    padding: 5px;
+}
+.yp-10{
+    padding: 10px;
+}
+@media(max-width: 800px){
+    .yp-lg-0-md-5{
+        padding: 5px;
+    }
+    .yp-lg-0-md-10{
+        padding: 10px;
+    }
+}
+.border-1{
+    border: 1px solid #bdbdbd;
+}
+.yo-radius-3{
+    border-radius: 3px;
+}
+.max-height-70vh{
+    max-height: 70vh;
+    overflow: auto;
+}
